@@ -666,6 +666,16 @@ a {
 p {
   font-size: 1rem;
 }
+.uppercase {
+  text-transform: uppercase;
+}
+.p-size {
+  font-size: 2rem;
+}
+.flex {
+  display: flex;
+  flex-direction: column;
+}
 
 .tight-width-whitespace {
   max-width: 600px;
@@ -692,7 +702,7 @@ p {
 }
 
 h2 {
-  font-size: 22px;
+  font-size: 2rem;
   line-height: 1.4em;
 }
 
@@ -1013,17 +1023,17 @@ h4 {
     width: 180px;
     height: 320px;
   }
-}
 
-@media (max-width: 400px) {
-  .bloc {
-    padding-left: 0;
-    padding-right: 0;
+  @media (max-width: 400px) {
+    .bloc {
+      padding-left: 0;
+      padding-right: 0;
+    }
   }
-}
 
-@media (max-width: 767px) {
-  .bloc-mob-center-text {
-    text-align: center;
+  @media (max-width: 767px) {
+    .bloc-mob-center-text {
+      text-align: center;
+    }
   }
 }
