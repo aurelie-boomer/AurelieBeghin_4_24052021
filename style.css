@@ -91,7 +91,7 @@ a:hover {
 }
 
 .texture-paper::before {
-  /*background: url("img/IMG-sized/texture_paper.jpg");*/
+  background: url("img/IMG-sized/texture_paper.jpg");
   background-size: 280px 280px;
 }
 
@@ -769,19 +769,19 @@ h4 {
 }
 
 .bgc-dark-slate-blue {
-  background-color: #ffffff;
+  background-color: #364577;
 }
 
 .bgc-atomic-tangerine {
-  background-color: #97380c;
+  background-color: #f3976c;
 }
 
 .tc-white {
-  color: #97380c !important;
+  color: #f3976c !important;
 }
 
 .btn-atomic-tangerine {
-  background: #97380c;
+  background: #f3976c;
   color: #ffffff !important;
 }
 
@@ -799,7 +799,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-  color: #97380c !important;
+  color: #f3976c !important;
 }
 
 .ltc-atomic-tangerine:hover {
@@ -807,8 +807,8 @@ h4 {
 }
 
 .icon-dark-slate-blue {
-  color: #ffffff !important;
-  border-color: #ffffff !important;
+  color: #364577 !important;
+  border-color: #364577 !important;
 }
 
 .bg-dots-bg {
