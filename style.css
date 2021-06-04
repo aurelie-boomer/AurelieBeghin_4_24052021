@@ -267,6 +267,13 @@ a:hover {
   padding-right: 0;
   padding-left: 0;
 }
+.flex-mail {
+  display: flex;
+  flex-direction: column;
+}
+.margin-mail {
+  margin-top: 2rem;
+}
 
 #bloc-1-hero h1 {
   font-size: 3rem;
@@ -315,6 +322,13 @@ a:hover {
 
 .navbar-nav .open .dropdown-menu > li > a {
   text-align: inherit;
+}
+.focus-lien {
+  font-size: 1.6rem;
+}
+.focus-lien:hover,
+.focus-lien:focus {
+  text-decoration: underline;
 }
 
 .nav > li a:hover,
@@ -462,7 +476,7 @@ button {
 }
 
 .icon-md {
-  font-size: 1.8rem !important;
+  font-size: 2.8rem !important;
   margin-bottom: 2rem;
 }
 
@@ -774,6 +788,9 @@ h4 {
 
 .tc-white {
   color: #fce8e3 !important;
+}
+.contrast-color {
+  color: #f3976c;
 }
 
 .btn-atomic-tangerine {
