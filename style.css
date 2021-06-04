@@ -691,6 +691,9 @@ p {
   display: flex;
   flex-direction: column;
 }
+.text-bold {
+  font-weight: bold;
+}
 
 .tight-width-whitespace {
   max-width: 600px;
