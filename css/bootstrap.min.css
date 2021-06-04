@@ -1321,6 +1321,10 @@ mark {
 .text-center {
   text-align: center;
 }
+.margin-social {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
 .text-justify {
   text-align: justify;
 }
