@@ -664,7 +664,7 @@ a {
 }
 
 p {
-  font-size: 1rem;
+  font-size: 1.3rem;
 }
 .uppercase {
   text-transform: uppercase;
@@ -707,7 +707,7 @@ h2 {
 }
 
 h3 {
-  font-size: 0.9rem;
+  font-size: 1.9rem;
   text-transform: uppercase;
   font-weight: 700;
   color: #333333 !important;
