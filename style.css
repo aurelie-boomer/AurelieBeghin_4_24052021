@@ -733,7 +733,7 @@ h4 {
 }
 
 .white {
-  color: #ffffff !important;
+  color: #1c1c1c !important;
 }
 
 .portfolio-thumb {
@@ -772,17 +772,17 @@ h4 {
 }
 
 .tc-white {
-  color: #f3976c !important;
+  color: #fce8e3 !important;
 }
 
 .btn-atomic-tangerine {
   background: #f3976c;
-  color: #ffffff !important;
+  color: #1f1f1f !important;
 }
 
 .btn-atomic-tangerine:hover {
   background: #c27956 !important;
-  color: #ffffff !important;
+  color: #1f1f1f !important;
 }
 
 .ltc-white {
