@@ -693,6 +693,7 @@ p {
 }
 .text-bold {
   font-weight: bold;
+  color: black;
 }
 
 .tight-width-whitespace {
