@@ -686,9 +686,7 @@ p {
 .uppercase {
   text-transform: uppercase;
 }
-.p-size {
-  font-size: 2rem;
-}
+
 .flex {
   display: flex;
   flex-direction: column;
