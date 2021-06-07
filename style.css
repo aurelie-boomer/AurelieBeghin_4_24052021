@@ -682,7 +682,7 @@ p {
 }
 .text-quote {
   font-weight: bold;
-  color: black;
+  color: #545454;
   font-style: italic;
 }
 
@@ -766,14 +766,6 @@ h4 {
 .bold-link {
   font-weight: 900;
   text-decoration: underline !important;
-}
-
-.bgc-white {
-  background-color: #ffffff;
-}
-
-.bgc-dark-slate-blue {
-  background-color: #364577;
 }
 
 .bgc-atomic-tangerine {
